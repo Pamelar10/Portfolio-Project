@@ -112,3 +112,26 @@ p {
     margin: 0;   
 }
 
+footer .email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer .email-link:hover {
+  color: #aba8ed;
+}
+
+footer .social-links a {
+  margin: 0 20px;
+  color: #e82cc6;
+  padding: 10px;
+  transition: all ease-in-out;
+  
+}
+
+footer .social-links a:hover {
+  color: lavenderblush;
+}
