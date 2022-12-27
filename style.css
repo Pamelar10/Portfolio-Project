@@ -96,6 +96,7 @@ p {
 
 .email-link:hover {
   text-decoration: underline;
+  color: grey;
 }
 
 .about-section h1 {
