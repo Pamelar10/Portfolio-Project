@@ -132,3 +132,7 @@ footer .social-links a:hover {
   color: lavenderblush;
 }
 
+.heading h1 {
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
