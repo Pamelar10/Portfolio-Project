@@ -97,3 +97,7 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.about-section h1 {
+    font-size: 60px;
+}
